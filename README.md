@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-Mais uma aplicação para cálculo de Índice de Massa Corporal (IMC).
+Aplicação desenvolvida para o cálculo de Índice de Massa Corporal (IMC).
 
 # Como usar?
 
